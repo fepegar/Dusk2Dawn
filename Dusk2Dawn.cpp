@@ -4,8 +4,7 @@
  *  <https://github.com/dmkishi/Dusk2Dawn>
  */
 
-#include "Arduino.h"
-#include <math.h>
+#include <Arduino.h>
 #include "Dusk2Dawn.h"
 
 

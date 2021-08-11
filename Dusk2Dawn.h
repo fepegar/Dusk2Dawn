@@ -7,8 +7,7 @@
 #ifndef Dusk2Dawn_h
 #define Dusk2Dawn_h
 
-  #include "Arduino.h"
-  #include <math.h>
+  #include <Arduino.h>
 
   class Dusk2Dawn {
     public:
